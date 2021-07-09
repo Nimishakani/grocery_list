@@ -1,0 +1,86 @@
+{ 
+    "grocery": [
+
+
+    {
+        "SlNo": "1",
+        "Name": "Eggs",
+        "Quantity": "10",
+        "Unit": "No.",
+        "Department": "Egg",
+        "Notes": "Chicken"
+    },
+    {
+        "SlNo": "2",
+        "Name": "Grapes",
+        "Quantity": "1",
+        "Unit": "Kg",
+        "Department": "Fruites",
+        "Notes": "Green grapes"
+    },
+    {
+        "SlNo": "3",
+        "Name": "Tomato",
+        "Quantity": "1",
+        "Unit": "Kg",
+        "Department": "Vegitables",
+        "Notes": "Fresh"
+    },
+    {
+        "SlNo": "4",
+        "Name": "Milk",
+        "Quantity": "2",
+        "Unit": "Packets",
+        "Department": "Dairy Products",
+        "Notes": "Milma"
+    },
+    {
+        "SlNo": "5",
+        "Name": "Fish",
+        "Quantity": "1",
+        "Unit": "Kg",
+        "Department": "Fish",
+        "Notes": "Prawns"
+    },
+    {
+        "SlNo": "6",
+        "Name": "Carrot",
+        "Quantity": "0.5",
+        "Unit": "Kg",
+        "Department": "Vegitables",
+        "Notes": "Fresh"
+    },
+    {
+        "SlNo": "7",
+        "Name": "Oil",
+        "Quantity": "1",
+        "Unit": "Ltr",
+        "Department": "Essentials",
+        "Notes": "Sunflower Oil"
+    },
+    {
+        "SlNo": "8",
+        "Name": "Orange",
+        "Quantity": "1",
+        "Unit": "Kg",
+        "Department": "Fruites",
+        "Notes": "Fresh"
+    },
+    {
+        "SlNo": "9",
+        "Name": "Rice",
+        "Quantity": "5",
+        "Unit": "Kg",
+        "Department": "Rice",
+        "Notes": "Organic"
+    },
+    {
+        "SlNo": "10",
+        "Name": "Cabbage",
+        "Quantity": "1",
+        "Unit": "No.",
+        "Department": "Vegitables",
+        "Notes": "Small"
+    }
+    ]
+}
